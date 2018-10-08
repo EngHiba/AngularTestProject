@@ -1,0 +1,11 @@
+D:\Workspaces\MTS-master\MTS\MTS\bin\Release\netcoreapp2.0\MTS.deps.json
+D:\Workspaces\MTS-master\MTS\MTS\bin\Release\netcoreapp2.0\MTS.runtimeconfig.json
+D:\Workspaces\MTS-master\MTS\MTS\bin\Release\netcoreapp2.0\MTS.runtimeconfig.dev.json
+D:\Workspaces\MTS-master\MTS\MTS\bin\Release\netcoreapp2.0\MTS.dll
+D:\Workspaces\MTS-master\MTS\MTS\bin\Release\netcoreapp2.0\MTS.pdb
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.csprojResolveAssemblyReference.cache
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.csproj.CoreCompileInputs.cache
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.AssemblyInfoInputs.cache
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.AssemblyInfo.cs
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.dll
+D:\Workspaces\MTS-master\MTS\MTS\obj\Release\netcoreapp2.0\MTS.pdb
